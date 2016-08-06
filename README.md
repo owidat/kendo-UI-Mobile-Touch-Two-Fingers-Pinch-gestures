@@ -18,6 +18,8 @@ http://docs.telerik.com/kendo-ui/controls/hybrid/styles/touch#multi-touch-gestur
 
 # Code:
 All what I did after contacting Telerik support is reading the doc and writing the following code:
+
+* code can be found under "components" > "homeView" > "index.js"
 <pre><code>
 
 var pinchStart = 0, pinchMoving = 0, dis = 0;
