@@ -1,4 +1,6 @@
-# Project Name
+# Demo
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/V4fI7awhCKA/0.jpg)](http://www.youtube.com/watch?v=V4fI7awhCKA)
+
 # kendo-UI-Mobile-Touch-Two-Fingers-Pinch-gestures
 This is a Hyprid Telerik Platform Kendo UI Mobile App Demo: Touch with two fingers to resize the text using Pinch gestures (Pinch to Zoom or Pinch to resize text)
 Tested on iOS and Android
